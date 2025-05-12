@@ -1,3 +1,5 @@
+
+'''String'''
 print(type("this is a string"))
 
 # we can write string either in double quotes or single quotes
