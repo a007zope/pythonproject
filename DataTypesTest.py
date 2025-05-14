@@ -1,6 +1,6 @@
 
 '''
-datatype te
+datatype test
 '''
 
 
