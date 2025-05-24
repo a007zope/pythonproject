@@ -43,11 +43,11 @@ print(10/5) # prints 2.0
 
 print(10//5) # prints 2  since we used the floor division operator it rounds down to the nearest whole number
 
-# modulus operator
+# modulus operator: will print remainder
 
-print(10%5)
+print(10%5)  # remainder is  0
 
-print(5%2)
+print(5%2) # remainder is 1
 
 
 
