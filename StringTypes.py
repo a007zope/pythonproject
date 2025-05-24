@@ -123,6 +123,8 @@ print("Hey, I live in {}, My Age is {}".format(city,Age,id))
 
 print("Hey, I live in %s, My age is %d and id is %f"%(city,Age,id))
 
+# python string related concepts
+
 
 
 
