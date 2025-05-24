@@ -1,3 +1,9 @@
+
+'''
+datatype test
+'''
+
+
 x=100.01
 x="Aditya"
 
