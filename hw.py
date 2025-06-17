@@ -11,7 +11,7 @@ print(s)
 '''
 variable naming convention:
 
-no special charcter allowed except "_"
+no special character allowed except "_"
 We need to start variable with an alphabet or _
 (a-z | A-Z |_)-> the first char of the variable
 '''
