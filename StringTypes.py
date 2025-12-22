@@ -62,8 +62,8 @@ print(name[::-1])
 print(len(name))
 
 # if we need to remove white spaces then we need to use strip() method
-
 abc =" Hello, Rahul "
+
 
 print(abc.strip())
 
