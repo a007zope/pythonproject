@@ -3,7 +3,6 @@
 datatype test
 '''
 
-
 x=100.01
 x="Aditya"
 
@@ -18,13 +17,11 @@ print(type(x))
 print(isinstance(x,int))  #isinstance will verify whether x belongs to an integer or not
 
 # suppose we want to multiple 2 raise to 10 ie 2 multiplied 10 times
-
 print(2**10)
 
 import random
 # if you want to print any number from the random range then we can simply use below function
 print(random.randrange(1,20))
-
 
 #if we check the condition 10 is greater than 5 it will print the boolean result
 print(10>5) #prints true
@@ -50,6 +47,7 @@ print(10%5)  # remainder is  0
 print(5%2) # remainder is 1
 
 print("this is local computer code")
+print("commiting code from local computer on June 14 2026")
 
 
 
