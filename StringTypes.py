@@ -150,6 +150,3 @@ print("Hey, I live in %s, My age is %d and id is %f"%(city,Age,id))
 
 
 
-
-
-
